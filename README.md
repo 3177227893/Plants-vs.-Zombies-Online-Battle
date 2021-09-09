@@ -136,6 +136,21 @@ The code comment style follows the [*Doxygen*](http://www.doxygen.nl) specificat
 
 Distributed under the *MIT License*. See `LICENSE` for more information.
 
+## Citing
+
+```tex
+@software{chenzs108_2021_5159165,
+  author       = {Chen Zhenshuo and Liu Guowen},
+  title        = {czs108/Plants-vs.-Zombies-Online-Battle: v1.0.0},
+  month        = aug,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.5159165},
+  url          = {https://doi.org/10.5281/zenodo.5159165}
+}
+```
+
 ## Contact
 
 - ***Chen Zhenshuo***
